@@ -65,8 +65,9 @@ function walkFiles(dir, out = []) {
 function buildUrls(repoSlug) {
   const baseRaw = `https://raw.githubusercontent.com/${repoSlug}/main/`;
   const baseBlob = `https://github.com/${repoSlug}/blob/main/`;
+  const baseGithack = `https://raw.githack.com/${repoSlug}/main/`;
   return {
-    preview: (relPath) => `https://htmlpreview.github.io/?${baseRaw}${encodeURI(asPosix(relPath))}`,
+    preview: (relPath) => `${baseGithack}${encodeURI(asPosix(relPath))}`,
     blob: (relPath) => `${baseBlob}${encodeURI(asPosix(relPath))}`
   };
 }

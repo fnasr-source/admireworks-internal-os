@@ -91,11 +91,12 @@ function fileExists(root, relPath) {
 function buildUrls(repoSlug) {
   const baseBlob = `https://github.com/${repoSlug}/blob/main/`;
   const baseRaw = `https://raw.githubusercontent.com/${repoSlug}/main/`;
+  const baseGithack = `https://raw.githack.com/${repoSlug}/main/`;
 
   return {
     blob: (relPath) => `${baseBlob}${encodeURI(asPosix(relPath))}`,
     raw: (relPath) => `${baseRaw}${encodeURI(asPosix(relPath))}`,
-    preview: (relPath) => `https://htmlpreview.github.io/?${baseRaw}${encodeURI(asPosix(relPath))}`
+    preview: (relPath) => `${baseGithack}${encodeURI(asPosix(relPath))}`
   };
 }
 

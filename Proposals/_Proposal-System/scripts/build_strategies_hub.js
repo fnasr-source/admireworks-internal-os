@@ -50,8 +50,9 @@ function escapeHtml(input) {
 function buildUrls(repoSlug) {
   const raw = `https://raw.githubusercontent.com/${repoSlug}/main/`;
   const blob = `https://github.com/${repoSlug}/blob/main/`;
+  const githack = `https://raw.githack.com/${repoSlug}/main/`;
   return {
-    preview: (relPath) => `https://htmlpreview.github.io/?${raw}${encodeURI(asPosix(relPath))}`,
+    preview: (relPath) => `${githack}${encodeURI(asPosix(relPath))}`,
     blob: (relPath) => `${blob}${encodeURI(asPosix(relPath))}`
   };
 }

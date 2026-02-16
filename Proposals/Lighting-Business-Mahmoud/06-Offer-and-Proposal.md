@@ -105,3 +105,10 @@ Reason: it matches the stated need for active management, media buying execution
 1. Confirm Option 1 or Option 2.
 2. Process initial payment based on selected option.
 3. Schedule kickoff and start execution.
+
+---
+
+## Payment Details (Egypt - This Proposal)
+
+- Account Name: Fouad Nasseredin
+- Instapay Account: admireworks@instapay

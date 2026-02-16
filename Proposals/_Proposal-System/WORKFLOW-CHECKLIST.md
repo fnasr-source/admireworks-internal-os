@@ -9,9 +9,9 @@
    - `10-One-Page-Proposal.html`
    - client email in `communications/`
 5. Add validity period (default: 7 days from sending date).
-6. Confirm payment section by region:
-   - Egypt: Instapay details
-   - International: payment link
+6. Confirm payment section by region in both proposal and email:
+   - Egypt: Instapay details (include subtle footer section in one-page proposal)
+   - International: payment link (include subtle note in one-page proposal)
 7. Keep client email short, with one-page proposal link and payment details.
 8. Format email links as action hyperlinks:
    - `👉 [View Proposal](URL)`

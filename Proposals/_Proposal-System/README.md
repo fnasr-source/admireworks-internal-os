@@ -7,6 +7,7 @@ Master internal framework for creating, numbering, publishing, and sending propo
 - Keep every client package in a numbered file structure.
 - Keep one source of truth registry for issued proposal IDs.
 - Keep payment and email rules standardized by region.
+- Keep payment details present in both the client email and one-page proposal footer.
 - Keep client contact email and phone stored in the registry and package index.
 - Use action-style hyperlink formatting in client emails.
 

@@ -51,12 +51,11 @@ node Proposals/_Proposal-System/scripts/create_proposal_record.js \
 
 Use `--skip-hub-build true` only for emergency/manual runs.
 
-## Repository Rebrand Target
+## Repository
 
-- Current remote: `fnasr-source/lighting-strategy`
-- Target remote name: `fnasr-source/admireworks-internal-os`
+- Current remote: `fnasr-source/admireworks-internal-os`
 
-After GitHub rename is completed, regenerate hubs with:
+To regenerate hubs on current slug:
 
 ```bash
 REPO_SLUG=fnasr-source/admireworks-internal-os node Proposals/_Proposal-System/scripts/build_proposals_hub.js --root "/Users/user/Documents/IDE Projects/Internal AW SOP"

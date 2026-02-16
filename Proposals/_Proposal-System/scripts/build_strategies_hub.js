@@ -191,7 +191,7 @@ function renderHtml(records, generatedAt, repoSlug) {
 function main() {
   const args = parseArgs(process.argv);
   const root = path.resolve(args.root || process.cwd());
-  const repoSlug = String(args['repo-slug'] || process.env.REPO_SLUG || 'fnasr-source/lighting-strategy');
+  const repoSlug = String(args['repo-slug'] || process.env.REPO_SLUG || 'fnasr-source/admireworks-internal-os');
   const urls = buildUrls(repoSlug);
 
   const strategyRoot = path.join(root, 'Strategies');

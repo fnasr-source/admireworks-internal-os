@@ -60,7 +60,7 @@ Optional flags:
 
 - `--publish-presentation true`
 - `--skip-hub-build true` (emergency/manual use only)
-- `--repo-slug fnasr-source/lighting-strategy` (or new slug after rename)
+- `--repo-slug fnasr-source/admireworks-internal-os`
 
 ## Legacy Intake Rule
 

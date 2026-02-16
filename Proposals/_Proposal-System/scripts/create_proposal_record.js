@@ -95,7 +95,7 @@ function main() {
   const recommended = String(args['recommended-option'] || '');
   const publishPresentation = String(args['publish-presentation'] || 'false') === 'true';
   const skipHubBuild = String(args['skip-hub-build'] || 'false') === 'true';
-  const repoSlug = String(args['repo-slug'] || process.env.REPO_SLUG || 'fnasr-source/lighting-strategy');
+  const repoSlug = String(args['repo-slug'] || process.env.REPO_SLUG || 'fnasr-source/admireworks-internal-os');
 
   const [yearStr, monthStr, dayStr] = sendDate.split('-');
   const month = Number(monthStr);

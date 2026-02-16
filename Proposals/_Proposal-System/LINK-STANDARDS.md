@@ -1,0 +1,20 @@
+# Link Standards (Client-Facing Emails)
+
+## Rule
+Do not include plain raw links in client-facing emails.
+
+Use action text with emoji and hyperlink format:
+- `👉 [View Proposal](URL)`
+- `👉 [Open Payment Link](URL)`
+- `👉 [View Agreement](URL)`
+
+## Why
+- Cleaner email experience
+- Clear action intent
+- Consistent communication style
+
+## Applies To
+- Proposal emails
+- Follow-up emails
+- Payment emails
+

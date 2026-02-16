@@ -3,6 +3,10 @@
 - Proposal Number: `{{PROPOSAL_NUMBER}}`
 - Country Profile: `{{COUNTRY_CODE}}`
 - Status: `{{STATUS}}`
+- Client Email: `{{CLIENT_EMAIL}}`
+- Client Phone: `{{CLIENT_PHONE}}`
+- Valid Until: `{{VALID_UNTIL}}`
+- Outgoing URL Path: `{{OUTGOING_PATH}}`
 
 ## Core Sequence
 - `01-Transcript-Insights.md`
@@ -20,4 +24,3 @@
 ## Support
 - `meetings/`
 - `communications/`
-

@@ -5,6 +5,8 @@ This folder is now organized as a numbered proposal package for easy reference.
 - Proposal Number: `AWP-EG-0MKC-SLK`
 - Country Profile: `Egypt`
 - Status: `Ready To Send`
+- Client Email: `Mahmoudmselim95@gmail.com`
+- Client Phone: `+201022267297`
 - Valid Until: `February 23, 2026`
 - Outgoing URL Path: `Proposals/_Outgoing/AWP-EG-0MKC-SLK/one-page.html`
 

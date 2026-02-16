@@ -7,18 +7,30 @@ Master internal framework for creating, numbering, publishing, and sending propo
 - Keep every client package in a numbered file structure.
 - Keep one source of truth registry for issued proposal IDs.
 - Keep payment and email rules standardized by region.
+- Keep client contact email and phone stored in the registry and package index.
+- Use action-style hyperlink formatting in client emails.
 
 ## Main Documents
 - `NUMBERING-SYSTEM.md`
 - `proposal-registry.csv`
 - `PAYMENT-RULES.md`
 - `WORKFLOW-CHECKLIST.md`
+- `LINK-STANDARDS.md`
 - `templates/`
 - `scripts/`
 
 ## Numbering
 See full spec in:
 - `NUMBERING-SYSTEM.md`
+
+## Required Metadata Per Proposal
+- Proposal number
+- Client name
+- Client email
+- Client phone
+- Send date
+- Valid-until date
+- Outgoing URL path
 
 ## Required Client Package Structure
 - `00-Proposal-Index.md`
@@ -42,3 +54,9 @@ Public links should point to:
 
 Avoid client names in outgoing URLs.
 Default published artifact is `one-page.html`.
+
+## Link Style Standard
+Do not send raw URLs in client emails.
+Use:
+- `👉 [View Proposal](URL)`
+- `👉 [Open Payment Link](URL)`

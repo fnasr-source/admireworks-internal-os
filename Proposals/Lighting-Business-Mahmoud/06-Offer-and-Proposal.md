@@ -3,6 +3,8 @@
 **PROPOSAL NO:** AWP-EG-0MKC-SLK  
 **FROM:** Admireworks  
 **TO:** Mahmoud  
+**CLIENT EMAIL:** Mahmoudmselim95@gmail.com  
+**CLIENT PHONE:** +201022267297  
 **DATE:** February 16, 2026
 **VALID UNTIL:** February 23, 2026
 

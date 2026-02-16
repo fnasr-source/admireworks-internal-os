@@ -5,17 +5,17 @@ Proposal AWP-EG-0MKC-SLK | Ready to Start
 
 ## Email Header
 - From: Operations Coordinator (Admireworks)
-- To: Mahmoud
+- To: Mahmoudmselim95@gmail.com
 - CC: Fouad Nasseredin
 
 ## Email Body
 Dear Mr. Mahmoud,
 
-Please find your one-page proposal at the link below:
-https://htmlpreview.github.io/?https://raw.githubusercontent.com/fnasr-source/lighting-strategy/main/Proposals/_Outgoing/AWP-EG-0MKC-SLK/one-page.html
+👉 [View Proposal](https://htmlpreview.github.io/?https://raw.githubusercontent.com/fnasr-source/lighting-strategy/main/Proposals/_Outgoing/AWP-EG-0MKC-SLK/one-page.html)
 
-Proposal Number: AWP-EG-0MKC-SLK
-Valid Until: February 23, 2026
+Proposal Number: AWP-EG-0MKC-SLK  
+Valid Until: February 23, 2026  
+Client Contact: Mahmoudmselim95@gmail.com | +201022267297
 
 Payment for setup and monthly fees can be transferred via Instapay:
 - Account Name: Fouad Nasseredin
@@ -28,5 +28,6 @@ Operations Coordinator
 Admireworks
 
 ## International Client Rule
-For non-Egypt clients, replace the Instapay section with a payment link.
+For non-Egypt clients, replace Instapay details with:
+👉 [Open Payment Link](PAYMENT_URL)
 

@@ -35,6 +35,8 @@ node Proposals/_Proposal-System/scripts/create_proposal_record.js \
   --country EG \
   --send-date 2026-02-16 \
   --client "Lighting Business - Mahmoud" \
+  --contact-email "Mahmoudmselim95@gmail.com" \
+  --contact-phone "+201022267297" \
   --source-folder "Proposals/Lighting-Business-Mahmoud" \
   --owner "Fouad Nasseredin" \
   --status READY_TO_SEND \

@@ -74,7 +74,7 @@ function copyIfExists(src, dest) {
 
 function main() {
   const args = parseArgs(process.argv);
-  const required = ['root', 'country', 'send-date', 'client', 'source-folder', 'owner'];
+  const required = ['root', 'country', 'send-date', 'client', 'source-folder', 'owner', 'contact-email', 'contact-phone'];
   for (const r of required) {
     if (!args[r]) {
       console.error(`Missing required argument: --${r}`);
@@ -88,6 +88,8 @@ function main() {
   const client = String(args.client);
   const sourceFolder = String(args['source-folder']);
   const owner = String(args.owner);
+  const contactEmail = String(args['contact-email']);
+  const contactPhone = String(args['contact-phone']);
   const status = String(args.status || 'DRAFT');
   const recommended = String(args['recommended-option'] || '');
   const publishPresentation = String(args['publish-presentation'] || 'false') === 'true';
@@ -110,6 +112,8 @@ function main() {
     'token',
     'nonce',
     'client_name',
+    'client_email',
+    'client_phone',
     'source_folder',
     'outgoing_folder',
     'status',
@@ -172,6 +176,8 @@ function main() {
     token,
     nonce,
     client_name: client,
+    client_email: contactEmail,
+    client_phone: contactPhone,
     source_folder: sourceFolder,
     outgoing_folder: outgoingFolder,
     status,
@@ -187,7 +193,9 @@ function main() {
     one_page_path: `${outgoingFolder}/one-page.html`,
     presentation_path: publishPresentation ? `${outgoingFolder}/presentation.html` : '',
     send_date: sendDate,
-    daily_sequence: dailySequence
+    daily_sequence: dailySequence,
+    client_email: contactEmail,
+    client_phone: contactPhone
   };
 
   console.log(JSON.stringify(result, null, 2));

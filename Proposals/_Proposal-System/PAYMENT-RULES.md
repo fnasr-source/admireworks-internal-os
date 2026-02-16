@@ -9,3 +9,5 @@ Use Instapay details in proposal email:
 Do not include Instapay section.
 Include a direct payment link in the email body instead.
 
+Link format:
+- `👉 [Open Payment Link](PAYMENT_URL)`

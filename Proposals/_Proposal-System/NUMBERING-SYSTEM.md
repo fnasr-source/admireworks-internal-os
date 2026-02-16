@@ -34,7 +34,7 @@ node Proposals/_Proposal-System/scripts/create_proposal_record.js \
   --root "/Users/user/Documents/IDE Projects/Internal AW SOP" \
   --country EG \
   --send-date 2026-02-16 \
-  --client "Lighting Business - Mahmoud" \
+  --client "Lighting Business - Mahmoud Selim" \
   --contact-email "Mahmoudmselim95@gmail.com" \
   --contact-phone "+201022267297" \
   --source-folder "Proposals/Lighting-Business-Mahmoud" \

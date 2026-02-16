@@ -1,8 +1,8 @@
-# 06-Offer-and-Proposal: Lighting Business - Mahmoud
+# 06-Offer-and-Proposal: Lighting Business - Mahmoud Selim
 
 **PROPOSAL NO:** AWP-EG-0MKC-SLK  
 **FROM:** Admireworks  
-**TO:** Mahmoud  
+**TO:** Mahmoud Selim  
 **CLIENT EMAIL:** Mahmoudmselim95@gmail.com  
 **CLIENT PHONE:** +201022267297  
 **DATE:** February 16, 2026

@@ -1,7 +1,7 @@
 # Client Email (Egypt) - Operations Coordinator
 
 ## Subject
-Proposal AWP-EG-0MKC-SLK | Ready to Start
+Admirework x Lighting Business
 
 ## Email Header
 - From: Operations Coordinator (Admireworks)
@@ -9,7 +9,7 @@ Proposal AWP-EG-0MKC-SLK | Ready to Start
 - CC: Fouad Nasseredin
 
 ## Email Body
-Dear Mr. Mahmoud,
+Dear Mr. Mahmoud Selim,
 
 👉 [View Proposal](https://htmlpreview.github.io/?https://raw.githubusercontent.com/fnasr-source/lighting-strategy/main/Proposals/_Outgoing/AWP-EG-0MKC-SLK/one-page.html)
 
@@ -30,4 +30,3 @@ Admireworks
 ## International Client Rule
 For non-Egypt clients, replace Instapay details with:
 👉 [Open Payment Link](PAYMENT_URL)
-

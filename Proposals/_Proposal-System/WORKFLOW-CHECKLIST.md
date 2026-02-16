@@ -16,5 +16,6 @@
 8. Format email links as action hyperlinks:
    - `👉 [View Proposal](URL)`
    - `👉 [Open Payment Link](URL)` when needed.
-9. Use outgoing URL format: `Proposals/_Outgoing/{PROPOSAL_NUMBER}/one-page.html`.
-10. Push and share final outgoing URL.
+9. Use email subject format: `{Agency Name} x {Project/Business Name}`.
+10. Use outgoing URL format: `Proposals/_Outgoing/{PROPOSAL_NUMBER}/one-page.html`.
+11. Push and share final outgoing URL.

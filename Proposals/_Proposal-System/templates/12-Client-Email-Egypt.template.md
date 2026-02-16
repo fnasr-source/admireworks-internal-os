@@ -1,7 +1,7 @@
 # Client Email Template (Egypt)
 
 Subject:
-Proposal {{PROPOSAL_NUMBER}} | Ready to Start
+{{AGENCY_NAME}} x {{PROJECT_NAME}}
 
 Body:
 Dear {{CLIENT_NAME}},

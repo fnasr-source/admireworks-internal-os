@@ -60,3 +60,10 @@ Do not send raw URLs in client emails.
 Use:
 - `👉 [View Proposal](URL)`
 - `👉 [Open Payment Link](URL)`
+
+## Email Subject Standard
+Format:
+- `{Agency Name} x {Project/Business Name}`
+
+Example:
+- `Admirework x Lighting Business`

@@ -3,6 +3,9 @@
 ## Rule
 Do not include plain raw links in client-facing emails.
 
+Email subject should follow:
+- `{Agency Name} x {Project/Business Name}`
+
 Use action text with emoji and hyperlink format:
 - `👉 [View Proposal](URL)`
 - `👉 [Open Payment Link](URL)`
@@ -17,4 +20,3 @@ Use action text with emoji and hyperlink format:
 - Proposal emails
 - Follow-up emails
 - Payment emails
-

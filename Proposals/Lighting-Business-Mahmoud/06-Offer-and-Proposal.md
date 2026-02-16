@@ -11,7 +11,7 @@
 We are offering one unified execution scope (12-week Launchpad sprint, 15 deliverables) with **two commercial options**:
 
 1. **Option A: Partnership Model (With Sharing)**
-2. **Option B: Service Model (No Sharing)**
+2. **Option B/C: Fixed Models (No Sharing)**
 
 Both options include the same build and launch scope. The difference is only in the commercial structure.
 
@@ -62,27 +62,26 @@ Both options include the same build and launch scope. The difference is only in 
 
 ---
 
-## Option B: Service Model (No Sharing)
+## Option B/C: Fixed Models (No Sharing)
 
 ### Commercial Terms
-- **Phase 1 (Months 1-3):**
+- **Option B - Fixed Build (No Sharing):**
+  - **45,000 EGP** (one-time)
+  - Includes strategy/build/launch package (funnel logic, landing page, lead form, thank-you routing, tracking setup)
+  - Optional continuity: **7,500 EGP/month** for minor updates and A/B setup
+
+- **Option C - Fixed Optimize (No Sharing):**
   - Setup Fee: **35,000 EGP** (one-time)
-  - Execution Retainer: **17,500 EGP/month**
+  - Execution Retainer: **17,500 EGP/month** (minimum 3 months)
+  - Includes ongoing optimization, monthly review, and tracking refinement
   - Initial payment includes setup fee + Month 1 retainer
   - Ad spend is directly billed to client ad accounts
-
-- **Phase 2 (Months 4-6):**
-  - Execution Retainer: **17,500 EGP/month**
-  - Ongoing optimization and growth execution
-
-- **Phase 3 (Month 7+):**
-  - Optional continuation on the same monthly retainer model
 
 ### Governance
 - No equity transfer
 - No profit-sharing
 - Client retains 100% ownership and net profits
-- Minimum 3-month term
+- Minimum 3-month term applies to Option C
 
 ---
 
@@ -101,12 +100,13 @@ Core thesis: win by selling **confidence and guided decision-making** (Lighting 
 ## Recommendation
 
 - Choose **Option A** if you want aligned upside with lower fixed monthly cost.
-- Choose **Option B** if you want fixed-fee execution and zero sharing.
+- Choose **Option B** if you want one-time fixed delivery with no sharing.
+- Choose **Option C** if you want fixed-fee execution with monthly optimization and no sharing.
 
 ---
 
 ## Next Steps
 
-1. Confirm Option A or Option B.
-2. Process setup fee (32,000 EGP).
+1. Confirm Option A, Option B, or Option C.
+2. Process initial payment based on selected option.
 3. Start kickoff and begin Phase 1 execution.
